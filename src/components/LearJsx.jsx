@@ -1,7 +1,7 @@
 
 
 export const LearJsx = (props) => {
-    let amit = "678gfty"
+    let amit = "This is Testing Variable"
     return (
         <>
         React.createElement("h1","null","LearJsx111")
