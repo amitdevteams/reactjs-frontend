@@ -3,6 +3,6 @@
  ---
  npx create-react-app my-app
 
- npm install 
- npm run start
+ npm install </br>
+ npm run start</br>
  npm run dev
